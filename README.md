@@ -5,7 +5,6 @@
 </p>
 
 <p align="justify">
-An application to store the encrypted data in the firebase database, using the encryption technique.</br>
 Goal:</br>
   ● Code to create a basic GUI template for login window in tkinter.</br>
   ● Create an application to store the encrypted data in the firebase database, using the encryption technique.</br>
