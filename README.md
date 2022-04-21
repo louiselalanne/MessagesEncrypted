@@ -1,7 +1,7 @@
 <h1 align="center"> Messages Encrypted 🔐</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/100588945/164551833-a3642093-3f31-4128-8cfd-30e6b1b3c611.gif">
+<img src="https://user-images.githubusercontent.com/100588945/164551833-a3642093-3f31-4128-8cfd-30e6b1b3c611.gif" width="300">
 </p>
 
 <p align="justify">
