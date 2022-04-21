@@ -8,6 +8,7 @@
 Goal:</br>
   ● Code to create a basic GUI template for login window in tkinter.</br>
   ● Create an application to store the encrypted data in the firebase database, using the encryption technique.</br>
+  ● The decrypted message is displayed in the console.
   </br>
 Result:</br>
 <img src="https://user-images.githubusercontent.com/100588945/164551976-f7b5538d-7159-4a15-bbbc-db67b05005c8.png">
