@@ -2,7 +2,7 @@ from simplecrypt import encrypt, decrypt
 from tkinter import *
 from firebase import firebase
 
-firebase = firebase.FirebaseApplication("https://encryptedchat-e4211-default-rtdb.firebaseio.com/", None)
+firebase = firebase.FirebaseApplication("PUT YOUR PROJECT's URL", None)
 
 login_window = Tk()
 login_window.geometry("400x400")
